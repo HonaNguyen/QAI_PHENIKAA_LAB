@@ -1,0 +1,9 @@
+qiskit[visualization]==1.0.2
+qiskit-serverless 
+qiskit-transpiler-service 
+qiskit_algorithms
+qiskit_machine_learning
+qiskit_algorithms
+pylatexenc
+pandas
+numpy
